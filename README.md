@@ -1,4 +1,4 @@
-# DevcampViewTool
+# HenryViewTool
 
 > Various view specific methods for application I use.
 
@@ -7,7 +7,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'devcamp_view_tool'
+gem 'henry_view_tool'
 ```
 
 And then execute:
@@ -16,7 +16,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install devcamp_view_tool
+    $ gem install henry_view_tool
 
 ## Usage
 ```ruby
@@ -30,13 +30,13 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/devcamp_view_tool. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/henry_view_tool. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 
-The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+The gem is available as open source under the terms of the [MIT Licenshttps://github.com/HenryPowellHamilton/henry_view_toole](http://opensource.org/licenses/MIT).
 
 ## Code of Conduct
 
-Everyone interacting in the DevcampViewTool project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/devcamp_view_tool/blob/master/CODE_OF_CONDUCT.md).
-# devcamp_view_tool
+Everyone interacting in the HenryViewTool project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/henry_view_tool/blob/master/CODE_OF_CONDUCT.md).
+# henry_view_tool
